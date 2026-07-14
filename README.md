@@ -1,6 +1,6 @@
 # Genome-Alignment-of-Restored-KCS1-in-Candida-albicans
 This repository contains a reproducible, end-to-end bioinformatics pipeline designed to verify the genomic architecture of restored KCS1 Candida albicans strains.
-In this genetic rescue experiment, the native KCS1 gene locus on Chromosome R was knocked out. To restore strain functionality, a functional copy of the KCS1 expression cassette was integrated into a known neutral locus located on Chromosome 5. 
+In this genetic rescue experiment, the native KCS1 gene locus on Chromosome R was knocked out. To restore strain functionality, a functional copy of the KCS1 expression cassette was integrated into a known neutral locus located on chromosome 5. 
 
 The workflow is divided into five steps executed on a high-performance computing (HPC) cluster running the SLURM workload manager:
 
