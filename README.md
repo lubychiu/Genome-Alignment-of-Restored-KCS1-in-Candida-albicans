@@ -11,3 +11,5 @@ The workflow is divided into five steps executed on a high-performance computing
 5. Visual Verification (IGV): Loads the compact, localized alignment tracks onto a local desktop browser to verify the native knockout boundaries and confirm spanning reads across the new integration junctions.
 
 Using next-generation sequencing (NGS) data from three separate candidate strains ("Restore6", "Restore7", and "Restore8"), this pipeline automates read quality control, adapter trimming, whole-genome alignment, and targeted locus extraction. The primary objective is to visually confirm seamless integration and proper coverage at the insertion boundaries using a genome browser.
+
+For full pipeline, refer to PIPELINE.md.
